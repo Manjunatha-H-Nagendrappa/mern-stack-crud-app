@@ -6,8 +6,8 @@ Material UI,
 ReactJS
 
 --Backend--
-Express,
-NodeJs
+ExpressJS,
+NodeJS
 
 --Database--
 MongoDB
